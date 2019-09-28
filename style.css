@@ -1,0 +1,92 @@
+body {
+    color:#1F1659;
+    font-size: 20px;
+    font-family: 'Raleway', sans-serif;
+    line-height: 1.5;
+    background-color: lightblue;
+    margin: 0;
+    }
+h1{
+    font-family: 'Lobster', cursive;
+    text-align: center;
+    font-size: 60px;
+    padding: 0;
+    letter-spacing: 0.1em;
+    margin: 20px;
+
+    }
+
+h2 {
+    font-family: 'Lobster', cursive;
+    text-align: center;
+    font-size: 40px;
+    color:rgb(3, 107, 107);
+    letter-spacing: 1px;
+    margin:0;
+
+}
+
+.hlavicka {
+    background-color: rgb(3, 107, 107);
+    color:whitesmoke;
+    background-position: cover;
+    padding: 30px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+.hlavicka a {
+    border: 1px solid white;
+    border-radius: 200000px;
+    color:white;
+    font-size: 15px;
+    padding: 10px;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+    text-decoration: none;
+    }
+.hlavicka a:hover {
+    background: rgb(128, 209, 209);
+    color: white;
+
+}
+
+ul{
+    font-family: 'Raleway', sans-serif;
+    color:#1F1659;
+    line-height: 1.5;
+    }
+
+a{
+    font-family: 'Raleway', sans-serif;
+
+
+}
+
+.moje-foto {
+    height: 300px;
+    border-radius: 50%;
+    float: left;
+    margin-left: 30px;
+    margin-right: 50px;
+    margin-bottom: 30px;
+
+}
+
+.představení {
+    font-weight: bold;
+}
+
+.koníčky {
+    background-color: rgb(200, 241, 255);
+}
+
+section {
+    padding: 5px 15%;
+    overflow: auto;
+}
+.patička {
+    background-color:white;
+    text-align: center;  
+    padding: 10px;
+  
+}
